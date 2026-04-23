@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APL</string>
+    <string name="add_book">Add Book</string>
+    <string name="book_image">Book cover image</string>
+    <string name="title_hint">Title</string>
+    <string name="author_hint">Author</string>
+    <string name="genre_hint">Genre</string>
+    <string name="contact_info_hint">Contact Info</string>
+    <string name="save">Save</string>
+</resources>
